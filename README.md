@@ -5,7 +5,7 @@
      
 <img align="right" alt="dfr-hub github stats" src="https://github-readme-stats.vercel.app/api?username=dfr-hub&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&line_height=24&theme=dracula"/>
 
-### Hi there, my name is Daffa Fathur 👋
+## Hi there, my name is Daffa Fathur 👋
 ### I'm a Student and Junior Developer
 
 Here are some ideas to get you started:
