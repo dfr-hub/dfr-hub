@@ -13,12 +13,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
 
 <img align="align" alt="dfr-hub github stats" src="https://github-readme-stats.vercel.app/api?username=dfr-hub&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&line_height=24&theme=dracula"/>
-
-<details>
-  <summary><b>Spotify<b></summary>
-  <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=r7bwjkps9zll1oystw0hv0xqp&cover_image=true&theme=natemoo-re" />
-    </p>
-    </details>
   
 
 ------------------------------------------------------------------------------------
